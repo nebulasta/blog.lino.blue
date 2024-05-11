@@ -1,6 +1,6 @@
 # The URL the site will be built for
 base_url = "https://blog.lino.blue"
-title = "lino.blue"
+title = "blog.lino.blue"
 description="深刻になればなるほど、指紋ばかりの個人ブログだった"
 default_language = "ja"
 generate_feed = true
