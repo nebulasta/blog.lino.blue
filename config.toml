@@ -5,7 +5,6 @@ description="blog"
 default_language = "ja"
 minify_html = true
 generate_feed = true
-feed_filename = "rss.xml"
 theme = "anemone"
 compile_sass=true
 
