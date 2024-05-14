@@ -3,11 +3,11 @@ base_url = "https://blog.lino.blue/"
 title = "blog.lino.blue"
 description="blog"
 default_language = "ja"
+minify_html = true
 generate_feed = true
 feed_filename = "rss.xml"
 theme = "anemone"
 compile_sass=true
-minify_html = true
 
 
 
