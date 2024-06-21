@@ -34,12 +34,12 @@ internal_level = "warn"
 author = "Speyll"
 display_author = true
 
-favicon = "favicon.ico"
+favicon = "favicon.gif"
 image = ""
 
-default_theme = "light"
+default_theme = "dark"
 list_pages = false
-twitter_card = true
+twitter_card = false
 
 header_nav = [
   { url = "/", name_en = "/home/", name_fr = "/accueil/" },
