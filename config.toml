@@ -38,7 +38,7 @@ author="nebulatsa"
 display_author = true
 
 full_width = false
-favicon = "/images/favicon.ico"
+favicon = "/favicon.gif"
 header_nav = [
 	{url = "/", name_ja = "home"},
     {url = "/posts", name_ja = "posts" },
