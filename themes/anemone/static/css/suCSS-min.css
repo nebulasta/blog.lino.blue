@@ -7,15 +7,15 @@
     --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
     --standard-border-radius: 5px;
     /* default colors */
-    --bg: #EEEEEE;
-    --bg-light: #D6D6D6;
-    --text: #333333;
-    --text-light: #666666;
-    --accent: #787878;
-    --accent-light: #919191;
+    --bg: #222222;
+    --bg-light: #444;
+    --text: #EEEEEE;
+    --text-light: #CCCCCC;
+    --accent: #A6A6A6;
+    --accent-light: #C4C4C4;
     --accent-text: var(--bg);
-    --border: #7D7D7D;
-    --link: #444;
+    --border: #B0B0B0;
+    --link: #AAAAAA;
     }
     /* theme media queries */
     @media (prefers-color-scheme: dark) {
