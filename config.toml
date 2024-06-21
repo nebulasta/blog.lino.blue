@@ -43,7 +43,7 @@ header_nav = [
 	{url = "/", name_ja = "home"},
     {url = "/posts", name_ja = "posts" },
 ]
-default_theme = "dark"
+default_theme = "night"
 list_pages = false
 twitter_card = false
 
