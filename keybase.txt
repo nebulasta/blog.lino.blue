@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/aosjmi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blog.lino.blue
+  * I am aosjmi (https://keybase.io/aosjmi) on keybase.
+  * I have a public key with fingerprint DC6B 611E B35C B858 C5B6  3337 1FB9 7F02 DE77 9C6A
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a29966427bcf22b9fa92d99e1c8a68b17bd3ea70cc56c5e53887f136bf849ddd0a",
+      "fingerprint": "dc6b611eb35cb858c5b633371fb97f02de779c6a",
+      "host": "keybase.io",
+      "key_id": "1fb97f02de779c6a",
+      "kid": "010198c8af75b2745a9020113f7f04cdc7aca03ae8fa57a01d8f02143b7bfbeb94300a",
+      "uid": "b26a79b197159ac966ae80e267f09a19",
+      "username": "aosjmi"
+    },
+    "service": {
+      "hostname": "blog.lino.blue",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1720012352,
+  "expire_in": 157680000,
+  "prev": "837b4786c496d662a8fdfc60afb29a29616e0774169bf93ed38c82d5bcdd0bf3",
+  "seqno": 34,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMN2AnicbVJ7UFRVHF5eJstTMmI0Qy+Qj9nwPva+FhygIWsah17azMbSds+95+KV
+Ze+2d1kkBiMM8hEN8hAkCFRAYhIHUVQGRnDIF6FkIw5YGJBWlCIN0ugIdZbR/zr/
+nDm/3/d95/s9+oJ8dHqvyDOfeI9m12zz6u+tytLJhSmJuRhQpRzMlItlwIUL2iSo
+uawZioSZMJwgcYHkeYYxkiwQZZIEvCzwpMTzkBA5geEAwQKJggKLiyLNiDSkKY5j
+ZYJigMwZeUmScAEzYLJiT4dOh1Oxu5CsJDKAIQgIKFoEHM2JNGAoimIJGfCsjJMS
+ZFleZDzErarmYSBzQNBgrKKiGHpYF+z9D/6pb5zgOWRQZmlAskZa4HESJwhKRnCj
+KImsIAo4JUBOFmhWwAmJQzKEkQIskAEEvJHCF3xnLcgBkhFYHhA8S9C8IKJ2ICYO
+SQap8QLBe4AadNqFTIjQgqpty1SwPAOGYm5FhJ62eup4kgc2NT3WptjVWGDLgojr
+cKouVVRtKLfV5XJoJg/XlePwgLMhsD6RsQLFLqE+IoYbOjVFtWMmAiFFl+LRJVgS
+R/OiaNKAwe0OxQmtigdBswyHo+P5B7qRJEexwMhyjGjkGYlhSIGTJVlkcEEGJI+m
+zRAMxFnWSDA8kHkKShTqJCnRQETDBDKFeQr7yK5iJsqIfArpSFNT0u2CK8sJsbxz
+vRZfnZdet8jP27NgOr1/6NO1I18JmTe53W+Ht5Z03q099f2hK/4zieZXlZX6mg0R
+ZZerZ8IqvnljdXLlh0vNFt+errVxqT0DcZb8upJ1wUf7+X2mR3EVc8XlNza6h1rn
+OzaMTe8Inw3oLA2M1O/cVCs8h11qcAenfnur7LPM0UFvd8NPc+OfP/tXx83uG7rx
+vxPCbveUN6aEaHf3209M1sa0Gz7dNKLlq+/eipnyys1e3qYn1heMqGT08fCB+z4H
+drU4Cup/HR7e3Rzh9/Ifs/ODy1em5WQXWpPvrAgfpQZWDaZFR0beudI3EEQfORea
+Q3VdCE+uuflWca05QT02EfGzrem35+1pGZvvnaxTE6/PxB94WMq3OYreD6xb1lK2
+Hpskf2hqXDzS3bbz8derzbbrDTHFPVd9w3xnX4irnFoycTsn4MfFpwZnm70ONzZt
+ib8mu16vfFy9RGnRmq17zp6e+e58fltUCFxXenywL6V6Inbzx02W8aS1seZgS37o
+iWOHd4VNnZ5+ePDkVfxgf3BIapXDf26ftlG/NHLH3vvpgUnUXCjn5WcB9cPJW3rb
+H5yv6hy7aOS/HHI+KgublDoWGQxFUW+6D/l8cO3Be/90DY89s+bFsMLsqOiA6db2
+7ftjK2LMwbT2y5l/9/75zpqa7t/t8Zav+houTX4hliTd2zV0IU+/YtXl8qDXutsK
+Lx7VFZW9RGr1yxIKC84eqZkd3v0fQ2vBGg==
+=2xjm
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aosjmi
+
+==================================================================
