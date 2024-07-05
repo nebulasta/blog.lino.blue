@@ -9,7 +9,7 @@
     /* default colors */
     --bg: #222222;
     --bg-light: #444;
-    --text: #EEEEEE;
+    --text: #ffffff;
     --text-light: #CCCCCC;
     --accent: #A6A6A6;
     --accent-light: #C4C4C4;
@@ -44,7 +44,6 @@
 }
 
 html {
-  color-scheme: light dark;
   font-family: var(--mono-font);
   scroll-behavior: smooth;
 }
