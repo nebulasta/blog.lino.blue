@@ -1,28 +1,39 @@
-# The URL the site will be built for
+# 構築されるURL
 base_url = "https://blog.lino.blue/"
+
+# タイトル
 title = "blog.lino.blue"
-description="blog"
+
+# デフォルトの言語。  フィードで使用されます。
 default_language = "ja"
+
+# 「true」に設定すると、生成された HTML ファイルが縮小されます。
 minify_html = true
+
+# 「true」に設定すると、フィードが自動的に生成されます。
 generate_feed = true
+
+# 使用するサイトのテーマ
 theme = "anemone"
+
+# sass ディレクトリ内のすべての Sass ファイルを自動的にコンパイルするかどうか
 compile_sass=true
 
-
-
-highlight_theme = "axar"
+# JavaScript ライブラリによって後で使用される検索インデックスを構築するかどうか
 build_search_index = false
+
+# サイトに対してレンダリングされる分類法とデフォルトの構成
 taxonomies = [
     {name = "tags", feed = true},
 ]
 
 
 [markdown]
+highlight_theme = "gruvbox-dark"
 render_emoji = true
 external_links_target_blank = true
 smart_punctuation = true
 highlight_code = true
-highlight_theme = "gruvbox-dark"
 
 [slugify]
 paths = "on"
@@ -32,18 +43,18 @@ anchors = "on"
 [link_checker]
 internal_level = "warn"
 
-
 [extra]
-author="nebulatsa"
-display_author = true
+author="aosjmi"
+display_author = false
 
-full_width = false
-favicon = "/favicon.gif"
+full_width = true
+favicon = "/favicon.ico"
+
 header_nav = [
 	{url = "/", name_ja = "home"},
     {url = "/posts", name_ja = "posts" },
 ]
-default_theme = "dark"
+default_theme = "light"
 list_pages = false
 twitter_card = false
 
