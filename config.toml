@@ -52,9 +52,8 @@ favicon = "/favicon.ico"
 
 header_nav = [
 	{url = "/", name_ja = "home" } ,
-	{url = "/journal", name_ja = "journal" } ,
 	{url = "/posts", name_ja = "posts" },
-        {url = "https://us.umami.is/websites/9938b778-ed02-42ed-b343-dc3efca0548a", name_ja = "analytics" },
+        {url = "https://cloud.umami.is/share/Z1fvDYfyU4vrKhpv/blog.lino.blue", name_ja = "analytics" },
        
 ]
 list_pages = false
