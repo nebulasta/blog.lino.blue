@@ -51,10 +51,12 @@ full_width = true
 favicon = "/favicon.ico"
 
 header_nav = [
-	{url = "/", name_ja = "home"},
-    {url = "/posts", name_ja = "posts" },
+	{url = "/", name_ja = "home" } ,
+	{url = "/journal", name_ja = "journal" } ,
+	{url = "/posts", name_ja = "posts" },
+        {url = "https://us.umami.is/websites/9938b778-ed02-42ed-b343-dc3efca0548a", name_ja = "analytics" },
+       
 ]
-default_theme = "light"
 list_pages = false
 twitter_card = false
 
